@@ -21,6 +21,4 @@ function getItem(req, resp) {
     }
 }
 
-
-
 module.exports = router;
